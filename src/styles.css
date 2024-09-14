@@ -11,6 +11,13 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin: 0 auto;
+}
+
+.profile {
+    border-radius: 50%;
+    max-width: 10rem;
+    height: auto;
 }
 
 .title {
@@ -25,7 +32,6 @@ body {
     justify-content: center;
     align-items: center;
     font-size: 2rem;
-    margin: 0 auto;
 }
 
 .links-container {
