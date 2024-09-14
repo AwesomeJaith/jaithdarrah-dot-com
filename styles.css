@@ -1,0 +1,33 @@
+html {
+    font-size: 16px;
+    font-family: monospace;
+}
+
+body {
+    min-width: 100vh;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 5rem;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin: 0 auto;
+}
+
+.links-container {
+    display: block;
+    gap: 1rem;
+}
